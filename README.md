@@ -1,0 +1,1 @@
+# rabibitmq-locust-load-test
